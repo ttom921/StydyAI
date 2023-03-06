@@ -1,0 +1,1 @@
+conda activate py310 & python getdata.py
